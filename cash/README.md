@@ -12,5 +12,4 @@ Ao dar o troco, é provável que você queira minimizar o número de moedas que 
 
 ## Link Surge
 
-[Acesse aqui](verdant-comfort.surge.sh
-)
+[Acesse aqui](https://verdant-comfort.surge.sh/)

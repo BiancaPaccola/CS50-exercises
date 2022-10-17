@@ -16,3 +16,4 @@ Ao dar o troco, é provável que você queira minimizar o número de moedas que 
 
 Entre com o valor do troco em centavos e no formato de moeda brasileira.
 Ex.: 0,98
+O retorno é a quantidade mínima de moedas que você pode abater o troco.

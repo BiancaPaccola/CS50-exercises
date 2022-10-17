@@ -13,3 +13,6 @@ Ao dar o troco, é provável que você queira minimizar o número de moedas que 
 ## Link Surge
 
 [Acesse aqui](https://verdant-comfort.surge.sh/)
+
+Entre com o valor do troco em centavos e no formato de moeda brasileira.
+Ex.: 0,98

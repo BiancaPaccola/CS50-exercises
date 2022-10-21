@@ -9,11 +9,11 @@ O desafio consiste em fazer o programa 'desenhar' uma estrutura que lembre a pir
 
 ## Print do prompt
 
-![prompt](./assets/prompt.png)
+![prompt](./assets/prompt.PNG)
 
 ## Print da saída/output no navegador
 
-![output](./assets/output.PNG)
+![output](./assets/output.png)
 
 ### Conceito de lógica aplicado:
 - Loops;

@@ -15,6 +15,9 @@ O desafio consiste em fazer o programa 'desenhar' uma estrutura que lembre a pir
 
 ![output](./assets/output.PNG)
 
-### Conceito de Javascript aplicado:
+### Conceito de lógica aplicado:
 - Loops;
 - For aninhado.
+
+### Link Surge
+[---> Aqui <---](https://ruddy-sofa.surge.sh/)

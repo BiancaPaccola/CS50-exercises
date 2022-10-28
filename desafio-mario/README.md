@@ -17,7 +17,6 @@ O desafio consiste em fazer o programa 'desenhar' uma estrutura que lembre a pir
 
 ### Conceito de lógica aplicado:
 - Loops;
-- For aninhado.
 
 ### Link Surge
 [---> Aqui <---](https://ruddy-sofa.surge.sh/)
